@@ -26,16 +26,16 @@ body {
 }
 
 .game-over {
-  background-color: brown;
+  background-color: red;
   opacity: 0.8;
 }
 
 .red {
-  background-color: brown;
+  background-color: red;
 }
 
 .green {
-  background-color: blue;
+  background-color: yellow;
 }
 
 .blue {
